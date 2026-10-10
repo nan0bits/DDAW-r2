@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Indica la ubicación de tu sitemap para ayudar a la indexación
+Sitemap: https://artedentalmx.com/sitemap.xml
